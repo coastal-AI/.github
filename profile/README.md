@@ -1,7 +1,10 @@
 # **coastal-AI**
 
-## About Us  
+## About Us
 **coastal-AI** is a collaborative initiative between the **Artificial Intelligence Center (AIC) of the University of Oviedo** and the **Seagrass Ecology Group of the Spanish Institute of Oceanography (IEO-CSIC)**. This joint venture leverages artificial intelligence (AI) technologies to address pressing ecological challenges in coastal environments.
+
+- **[Seagrass Ecology Group (GEAM IEO-CSIC)](https://www.ieo.es/es/)**
+- **[Artificial Intelligence Center (AIC-University of Oviedo)](https://www.aic.uniovi.es)**
 
 ## Mission  
 Our mission is to innovate at the intersection of artificial intelligence and marine ecology, developing advanced tools and methods for the sustainable monitoring, analysis, and conservation of coastal ecosystems.
@@ -17,4 +20,4 @@ Our mission is to innovate at the intersection of artificial intelligence and ma
 
 3. **Data Integration and Accessibility**  
    - Creation of open-access datasets and tools for coastal researchers.  
-   - Alignment with international standards like Darwin Core and INSPIRE for data sharing.  
+   - Alignment with international standards like Darwin Core and INSPIRE for data sharing.
