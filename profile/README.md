@@ -7,7 +7,7 @@
 - **[Artificial Intelligence Center (AIC-University of Oviedo)](https://www.aic.uniovi.es)**
 
 ## Mission  
-Our mission is to innovate at the intersection of artificial intelligence and marine ecology, developing advanced tools and methods for the sustainable monitoring, analysis, and conservation of coastal ecosystems.
+Our mission is to innovate at the intersection of artificial intelligence and marine ecology, developing advanced tools and methods for geospatial analysis, enabling robust monitoring and the sustainable conservation of coastal ecosystems.
 
 ## Key Focus Areas  
 1. **Coastal Habitat Mapping**  
